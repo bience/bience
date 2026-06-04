@@ -1,3 +1,4 @@
+```text
 ██████  ██ ███████ ███    ██  ██████ ███████ 
 ██   ██ ██ ██      ████   ██ ██      ██      
 ██████  ██ █████   ██ ██  ██ ██      █████   
@@ -10,3 +11,4 @@ os           NixOS 26.05 (Yarara)
 de           niri
 pronouns     he/him
 nationality  filipino
+```
