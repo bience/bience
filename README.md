@@ -17,4 +17,4 @@
 }
 ```
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&labelColor=121214&logo=instagram&logoColor=white)](https://instagram.com/biencedotcom)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&labelColor=121214&logo=instagram&logoColor=white)](https://instagram.com/biencedotcom)
