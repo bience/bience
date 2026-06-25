@@ -12,7 +12,7 @@
   about = {
     pronouns = [ "he" "him" ];
     nationality = "filipino";
-    status = "tired";
+    status = "configuring";
     larp = true;
   };
 }
