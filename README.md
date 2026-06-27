@@ -12,8 +12,6 @@
   about = {
     pronouns = [ "he" "him" ];
     nationality = "filipino";
-    status = "configuring";
-    larp = true;
   };
 }
 ```
