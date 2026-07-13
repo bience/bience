@@ -5,7 +5,7 @@
   description = "about me";
 
   username = "bience";
-  os = "NixOS 26.05 (Yarara)";
+  os = "NixOS 26.11 (Zokor)";
   de = "niri";
   shell = "fish";
 
