@@ -7,7 +7,7 @@
   username = "bience";
   os = "NixOS 26.11 (Zokor)";
   de = "niri";
-  shell = "fish";
+  shell = "zsh";
 
   about = {
     pronouns = [ "he" "him" ];
