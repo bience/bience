@@ -3,11 +3,15 @@
 
 {
   description = "about me";
-
   username = "bience";
-  os = "NixOS 26.11 (Zokor)";
+
+  os = {
+    primary = "NixOS 26.11 (Zokor)";
+    secondary = "Gentoo";
+  };
+
   de = "niri";
-  shell = "zsh";
+  shell = "fish";
 
   about = {
     pronouns = [ "he" "him" ];
