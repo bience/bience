@@ -11,7 +11,7 @@
   };
 
   de = "niri";
-  shell = "fish";
+  shell = "zsh";
 
   about = {
     pronouns = [ "he" "him" ];
